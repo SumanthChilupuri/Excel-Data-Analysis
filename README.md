@@ -1,9 +1,11 @@
 # Excel Data Analysis
 
 ## Objective
-Online store wants to create an annual sales report for the year 2023, So that, Store can understand their customers, forecast future sales and grow more sales in 2024.
+This Excel data analysis project aims to comprehensively evaluate the online store's 2023 annual sales data, uncovering crucial insights to drive strategic decision-making for 2024. By examining key performance indicators, customer demographics, and sales patterns, we seek to identify opportunities for offline expansion, optimize inventory management, and enhance customer retention. The analysis will focus on understanding regional preferences, seasonal trends, and the most profitable customer segments. These insights will inform targeted marketing strategies, guide product development, and support the store's overall growth objectives. Ultimately, this analysis will provide actionable recommendations to increase sales, improve operational efficiency, and strengthen the store's market position in the coming year.
+
 ## Overview
-This is a End-to-End Data analysis project using advanced excel formulas and features. I have made an interactive Excel dashboard with enhancing data visualization for non-technical stakeholders. 
+This project showcases advanced Excel proficiency through comprehensive analysis of an online store's sales data. Utilizing complex formulas, pivot tables, and statistical functions, the analysis progresses from data cleaning to in-depth insights. The centerpiece is an interactive dashboard featuring dynamic charts and slicers, designed for non-technical users to easily explore sales trends, customer behavior, and key performance indicators. This user-friendly interface facilitates data-driven decision-making, demonstrating the ability to transform raw data into actionable business intelligence.
+
 Project structure is as follows:
 ├─ 01-Data Cleaning<br>
 ├─ 02-Data Processing<br>
