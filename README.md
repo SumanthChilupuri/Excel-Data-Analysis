@@ -6,7 +6,7 @@ This Excel data analysis project aims to comprehensively evaluate the online sto
 ## Overview
 This project showcases advanced Excel proficiency through comprehensive analysis of an online store's sales data. Utilizing complex formulas, pivot tables, and statistical functions, the analysis progresses from data cleaning to in-depth insights. The centerpiece is an interactive dashboard featuring dynamic charts and slicers, designed for non-technical users to easily explore sales trends, customer behavior, and key performance indicators. This user-friendly interface facilitates data-driven decision-making, demonstrating the ability to transform raw data into actionable business intelligence.
 
-Project structure is as follows:
+Project structure is as follows:<br>
 ├─ 01-Data Cleaning<br>
 ├─ 02-Data Processing<br>
 ├─ 03-Data Analysis<br>
